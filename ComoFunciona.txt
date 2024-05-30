@@ -1,0 +1,2 @@
+O nosso servidor JSON é responsavel pelo backend da app, ele vai controlar o banco de dados.
+O nosso frontend é um react app e será responsavel pela parte visual da aplicação.
