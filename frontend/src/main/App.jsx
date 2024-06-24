@@ -12,6 +12,12 @@ export default props =>
         <Logo />
         <Header />
         <Nav />
-        <Main />
+        <Main icon="home" title="Início"
+            subtitle="Projeto teste do Lucas com curso COD3R para aprender React.">
+            <div className="display-4">Bem Vindo!</div> 
+            <hr />
+            <p className="mb-0">Sistema para exemplificar a construção de um cadastro
+            desenvolvido em React!</p>   
+        </Main>
         <Footer />
     </div>

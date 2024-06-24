@@ -1,2 +1,7 @@
 O nosso servidor JSON é responsavel pelo backend da app, ele vai controlar o banco de dados.
 O nosso frontend é um react app e será responsavel pela parte visual da aplicação.
+
+O backend é responsavel apenas pelo controle do servidor por enquanto, funções de controle de dados e de segurança.
+Já o frontend precisa de um poder muito maior, é ele quem vai lidar com a interação com os usuários, ele precisa
+ser claro e muito bem difinido para que as requisições feitas para o backend fiquem claras e sem bugs por mal desenvolvimento
+do frontend.
