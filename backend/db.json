@@ -1,11 +1,24 @@
 {
-    "users":[{
-        "id": 1,
-        "name": "Lucas Buzioli",
-        "email": "lucas.teste@gmail.com"
-    },{
-        "id": 2,
-        "name": "Leonosvaldo Buzioli",
-        "email": "leonosvaldo.teste@gmail.com"
-    }]
+  "users": [
+    {
+      "id": 2,
+      "name": "Leonosvaldo Floneosvaldo",
+      "email": "leonosvaldo.teste@gmail.com"
+    },
+    {
+      "name": "Lucas Teste DB",
+      "email": "testebd@teste.com",
+      "id": 3
+    },
+    {
+      "name": "Cleiton Fodido",
+      "email": "fodido@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "Adicionando Geral",
+      "email": "addgeral@fon.com",
+      "id": 5
+    }
+  ]
 }

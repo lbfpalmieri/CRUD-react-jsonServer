@@ -15,3 +15,9 @@ aside.logo img {
         width: 350px;
     }
 }
+
+@media(max-width: 768px) {
+    aside.logo img {
+        width: 250px;
+    }
+}

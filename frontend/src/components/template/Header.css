@@ -2,10 +2,12 @@ header.header {
     background-color: #FFF;
     padding: 0px 15px;
     overflow: hidden;
-    white-space: nowrap;
+    /* white-space: nowrap; Removido para permitir quebra de linha */
     box-shadow: var(--shadow);
+    word-wrap: break-word; /* Adicionado para garantir quebra adequada das palavras */
 }
 
 header.header h1 {
     font-size: 1.8em;
 }
+
